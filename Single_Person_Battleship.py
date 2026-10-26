@@ -1,6 +1,6 @@
-# CSC6003 Second Coding Project - Battleship Game
-# Kevin Cyr
+## Single Person Battleship Game ##
 
+# Import Random Package
 import random
 
 # Capitalized these because they are constants - 
