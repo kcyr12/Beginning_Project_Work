@@ -1,5 +1,3 @@
-
-
 # Project Goal: Create a Zoo Coding Project with different animal classes each with unique attributes/methods
 
 # Begin creating Animal class
